@@ -2,7 +2,12 @@
 
 git and gitHub .
 
-'''javascript
+```javascript
 console.log ("hello GitHub");
-'''
-
+```
+```java
+System.out.println("Hello GitHub");
+```
+```python
+print("Hello GitHub");
+```
