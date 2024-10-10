@@ -1,0 +1,10 @@
+total 40
+drwxr-xr-x   9 ameralmunajjed  staff  288 Oct 10 19:35 .
+drwx------@ 21 ameralmunajjed  staff  672 Oct 10 19:31 ..
+drwxr-xr-x  14 ameralmunajjed  staff  448 Aug 23 08:53 .git
+-rw-r--r--   1 ameralmunajjed  staff  482 Aug  5 14:52 index.html
+-rw-r--r--   1 ameralmunajjed  staff  447 Oct 10 19:30 info.txt
+-rw-r--r--   1 ameralmunajjed  staff    0 Oct 10 19:35 info2.txt
+-rw-r--r--   1 ameralmunajjed  staff  130 Aug 11 20:27 nav-bar.html
+-rw-r--r--   1 ameralmunajjed  staff  181 Aug  5 23:15 readme.md
+-rwxr-xr-x@  1 ameralmunajjed  staff  124 Oct 10 19:35 she.sh
